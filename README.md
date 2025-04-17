@@ -24,8 +24,8 @@
 
 ## 📊 GitHub Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monkeyreel&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyreel&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=st8rboi&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st8rboi&layout=compact&theme=github_dark)
 
 ---
 
